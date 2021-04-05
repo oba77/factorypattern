@@ -1,0 +1,8 @@
+com\mycompany\factorypattern\PlayableFactory.class
+com\mycompany\factorypattern\Guitar.class
+com\mycompany\factorypattern\Instrument.class
+com\mycompany\factorypattern\FactoryClient.class
+com\mycompany\factorypattern\Playable.class
+com\mycompany\factorypattern\Piano.class
+com\mycompany\factorypattern\FactoryServer.class
+com\mycompany\factorypattern\Main.class
